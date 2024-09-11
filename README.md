@@ -1,13 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/58HShPQN)
 # Data Mining and Machine Learning Group Coursework
+_In this group coursework, I worked in a team on a data mining and machine learning project using
+GitHub as our collaborative platform. 
+The project covered various aspects of data mining and machine learning, including basic concepts,
+generative models, discriminative learning, and practical application of these techniques._
+|||
+|--|--|
+| **Project's Aim:** | to give hands-on experience with real-world data and machine learning algorithms while also teaching how to effectively collaborate using GitHub for version control, documentation, code reviews, regular commits, testing, and data cleaning |
+| **Learning Outcomes:** | work collaboratively to navigate through the various requirement phases, from selecting appropriate datasets to applying advanced machine learning techniques. The project's outcomes will contribute to the understanding of the selected datasets, provide solutions to research questions, and demonstrate proficiency in data analysis and machine learning. |
+| **Team Size:** | 5 |
+| **Project Run:** | 10 weeks |
+| **Grade:** | A |
+|||
 
-## Group Members
-
-1. Alex Varbanov @verbal-ale
-2. Diego Velasquez @Diego15457
-3. Alexandra Cures @ac234
-4. Saiprasad Murali @saiprasadm1998
-5. Sankalp Arora @sankalp-s
 
 ## Initial Project Proposal
 
