@@ -2,7 +2,7 @@
 _In this group coursework, I worked in a team on a data mining and machine learning project using
 GitHub as our collaborative platform. 
 The project covered various aspects of data mining and machine learning, including basic concepts,
-generative models, discriminative learning, and practical application of these techniques._
+generative models, discriminative learning, and practical application of these techniques. My contribution consisted mainly of the inital data exploration and integration in the first phase of the project and covering the clustering requirement in the second phase._
 |||
 |--|--|
 | **Project's Aim:** | to predict a musical track's popularity based on its audio features |
