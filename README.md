@@ -5,7 +5,7 @@ The project covered various aspects of data mining and machine learning, includi
 generative models, discriminative learning, and practical application of these techniques._
 |||
 |--|--|
-| **Project's Aim:** | to give hands-on experience with real-world data and machine learning algorithms while also teaching how to effectively collaborate using GitHub for version control, documentation, code reviews, regular commits, testing, and data cleaning |
+| **Project's Aim:** | to predict a musical track's popularity based on its audio features |
 | **Learning Outcomes:** | work collaboratively to navigate through the various requirement phases, from selecting appropriate datasets to applying advanced machine learning techniques. The project's outcomes will contribute to the understanding of the selected datasets, provide solutions to research questions, and demonstrate proficiency in data analysis and machine learning. |
 | **Team Size:** | 5 |
 | **Project Run:** | 10 weeks |
