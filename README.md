@@ -1,4 +1,4 @@
-# Data Mining and Machine Learning Group Coursework
+# Spotify Popularity Prediction
 _In this group coursework, I worked in a team on a data mining and machine learning project using
 GitHub as our collaborative platform. 
 The project covered various aspects of data mining and machine learning, including basic concepts,
